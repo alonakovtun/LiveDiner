@@ -1362,6 +1362,19 @@ blockquote {
 	font-size: 30px;
 }
 
+.ml-100{
+    margin-left: 100px;
+}
+@media only screen and (max-width: 990px){
+    .ml-100{
+        margin-left: 0px;
+    } 
+}
+
+.pt-100{
+    padding-top: 100px;
+}
+
 
 
 
